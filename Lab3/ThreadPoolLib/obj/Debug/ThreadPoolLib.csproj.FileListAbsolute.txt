@@ -1,0 +1,11 @@
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\ThreadPoolLib\bin\Debug\ThreadPoolLib.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\ThreadPoolLib\bin\Debug\ThreadPoolLib.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\ThreadPoolLib\obj\Debug\ThreadPoolLib.csprojResolveAssemblyReference.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\ThreadPoolLib\obj\Debug\ThreadPoolLib.csproj.CoreCompileInputs.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\ThreadPoolLib\obj\Debug\ThreadPoolLib.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\ThreadPoolLib\obj\Debug\ThreadPoolLib.pdb
+D:\SPP\Lab3\ThreadPoolLib\bin\Debug\ThreadPoolLib.dll
+D:\SPP\Lab3\ThreadPoolLib\bin\Debug\ThreadPoolLib.pdb
+D:\SPP\Lab3\ThreadPoolLib\obj\Debug\ThreadPoolLib.csproj.CoreCompileInputs.cache
+D:\SPP\Lab3\ThreadPoolLib\obj\Debug\ThreadPoolLib.dll
+D:\SPP\Lab3\ThreadPoolLib\obj\Debug\ThreadPoolLib.pdb

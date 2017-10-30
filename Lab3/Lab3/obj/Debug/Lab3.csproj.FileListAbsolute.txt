@@ -1,0 +1,16 @@
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\Lab3\bin\Debug\Lab3.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\Lab3\obj\Debug\Lab3.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\Lab3\bin\Debug\ThreadPoolLib.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab3\Lab3\bin\Debug\ThreadPoolLib.pdb
+D:\SPP\Lab3\Lab3\bin\Debug\Lab3.dll
+D:\SPP\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\SPP\Lab3\Lab3\bin\Debug\ThreadPoolLib.dll
+D:\SPP\Lab3\Lab3\bin\Debug\ThreadPoolLib.pdb
+D:\SPP\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\SPP\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\SPP\Lab3\Lab3\obj\Debug\Lab3.dll
+D:\SPP\Lab3\Lab3\obj\Debug\Lab3.pdb
