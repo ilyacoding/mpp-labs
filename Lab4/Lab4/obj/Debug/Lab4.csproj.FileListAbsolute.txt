@@ -1,0 +1,6 @@
+/Users/ikovalenko/Desktop/SPP/Lab4/Lab4/bin/Debug/Lab4.dll
+/Users/ikovalenko/Desktop/SPP/Lab4/Lab4/bin/Debug/Lab4.pdb
+/Users/ikovalenko/Desktop/SPP/Lab4/Lab4/obj/Debug/Lab4.csprojResolveAssemblyReference.cache
+/Users/ikovalenko/Desktop/SPP/Lab4/Lab4/obj/Debug/Lab4.csproj.CoreCompileInputs.cache
+/Users/ikovalenko/Desktop/SPP/Lab4/Lab4/obj/Debug/Lab4.dll
+/Users/ikovalenko/Desktop/SPP/Lab4/Lab4/obj/Debug/Lab4.pdb
