@@ -1,0 +1,10 @@
+C:\Users\IlyaCoding\Documents\Visual Studio 2017\SPP\Lab1\Lab1\bin\Debug\Lab1.dll
+C:\Users\IlyaCoding\Documents\Visual Studio 2017\SPP\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\IlyaCoding\Documents\Visual Studio 2017\SPP\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\IlyaCoding\Documents\Visual Studio 2017\SPP\Lab1\Lab1\obj\Debug\Lab1.dll
+C:\Users\IlyaCoding\Documents\Visual Studio 2017\SPP\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab1\Lab1\bin\Debug\Lab1.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab1\Lab1\obj\Debug\Lab1.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab1\Lab1\obj\Debug\Lab1.pdb
