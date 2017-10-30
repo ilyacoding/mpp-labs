@@ -1,0 +1,9 @@
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab2\Lab2\ConsoleLab2\bin\Debug\ConsoleLab2.exe.config
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab2\Lab2\ConsoleLab2\bin\Debug\ConsoleLab2.exe
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab2\Lab2\ConsoleLab2\bin\Debug\ConsoleLab2.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab2\Lab2\ConsoleLab2\bin\Debug\Lab2.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab2\Lab2\ConsoleLab2\bin\Debug\Lab2.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab2\Lab2\ConsoleLab2\obj\Debug\ConsoleLab2.csprojResolveAssemblyReference.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab2\Lab2\ConsoleLab2\obj\Debug\ConsoleLab2.csproj.CoreCompileInputs.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab2\Lab2\ConsoleLab2\obj\Debug\ConsoleLab2.exe
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab2\Lab2\ConsoleLab2\obj\Debug\ConsoleLab2.pdb
