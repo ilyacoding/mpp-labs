@@ -1,0 +1,5 @@
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\AttributeLibrary\bin\Debug\AttributeLibrary.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\AttributeLibrary\bin\Debug\AttributeLibrary.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\AttributeLibrary\obj\Debug\AttributeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\AttributeLibrary\obj\Debug\AttributeLibrary.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\AttributeLibrary\obj\Debug\AttributeLibrary.pdb

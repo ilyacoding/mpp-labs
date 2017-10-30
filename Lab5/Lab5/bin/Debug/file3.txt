@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Namespaces xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" dll="TestDll">
+  <Namespace name="New">
+    <Class name="Class1">
+      <Interfaces>
+        <Interface name="IEditable" />
+      </Interfaces>
+      <InheritedTypes />
+      <Fields>
+        <Field accessor="protected" type="System.Object" name="123" />
+        <Field accessor="private" type="System.Boolean" name="PrivateField" />
+        <Field accessor="protected" type="System.Char" name="ProtectedField" />
+        <Field accessor="internal" type="System.Double" name="FieldInternal" />
+        <Field accessor="protected internal" type="System.Single" name="FieldProtectedInternal" />
+        <Field accessor="public" type="TestDll.cl2" name="obj_cl2">
+          <Definition>
+            <Class name="cl2">
+              <Interfaces />
+              <InheritedTypes />
+              <Fields>
+                <Field accessor="private" type="System.Boolean" name="ShowAll" />
+              </Fields>
+              <Methods>
+                <Method name="ToString">
+                  <Signature accessor="public" return_type="System.String" />
+                  <Parameters />
+                </Method>
+                <Method name="Equals">
+                  <Signature accessor="public" return_type="System.Boolean" />
+                  <Parameters>
+                    <Parameter name="obj" type="System.Object" />
+                  </Parameters>
+                </Method>
+                <Method name="GetHashCode">
+                  <Signature accessor="public" return_type="System.Int32" />
+                  <Parameters />
+                </Method>
+                <Method name="GetType">
+                  <Signature accessor="public" return_type="System.Type" />
+                  <Parameters />
+                </Method>
+                <Method name="Finalize">
+                  <Signature accessor="protected" return_type="System.Void" />
+                  <Parameters />
+                </Method>
+                <Method name="MemberwiseClone">
+                  <Signature accessor="protected" return_type="System.Object" />
+                  <Parameters />
+                </Method>
+              </Methods>
+            </Class>
+          </Definition>
+        </Field>
+      </Fields>
+      <Methods>
+        <Method name="PublicMethod">
+          <Signature accessor="public" return_type="System.Void" />
+          <Parameters />
+        </Method>
+        <Method name="PrivateMethod">
+          <Signature accessor="private" return_type="System.String" />
+          <Parameters>
+            <Parameter name="newparam" type="System.Int32" />
+            <Parameter name="b" type="System.Int32" />
+            <Parameter name="a" type="System.Char" />
+          </Parameters>
+        </Method>
+        <Method name="ProtectedMethod">
+          <Signature accessor="protected" return_type="System.Int32" />
+          <Parameters />
+        </Method>
+        <Method name="InternalMethod">
+          <Signature accessor="internal" return_type="System.Double" />
+          <Parameters>
+            <Parameter name="c" type="System.Boolean" />
+          </Parameters>
+        </Method>
+        <Method name="ProtectedInternalMethod">
+          <Signature accessor="protected internal" return_type="System.Char" />
+          <Parameters />
+        </Method>
+        <Method name="Dispose">
+          <Signature accessor="public" return_type="System.Void" />
+          <Parameters />
+        </Method>
+        <Method name="ToString">
+          <Signature accessor="public" return_type="System.String" />
+          <Parameters />
+        </Method>
+        <Method name="Equals">
+          <Signature accessor="public" return_type="System.Boolean" />
+          <Parameters>
+            <Parameter name="obj" type="System.Object" />
+          </Parameters>
+        </Method>
+        <Method name="GetHashCode">
+          <Signature accessor="public" return_type="System.Int32" />
+          <Parameters />
+        </Method>
+        <Method name="GetType">
+          <Signature accessor="public" return_type="System.Type" />
+          <Parameters />
+        </Method>
+        <Method name="Finalize">
+          <Signature accessor="protected" return_type="System.Void" />
+          <Parameters />
+        </Method>
+        <Method name="MemberwiseClone">
+          <Signature accessor="protected" return_type="System.Object" />
+          <Parameters />
+        </Method>
+      </Methods>
+    </Class>
+  </Namespace>
+  <Namespace name="TestDll2">
+    <Class name="Class2">
+      <Interfaces />
+      <InheritedTypes />
+      <Fields>
+        <Field accessor="private" type="System.Int32" name="Field" />
+      </Fields>
+      <Methods>
+        <Method name="ToString">
+          <Signature accessor="public" return_type="System.String" />
+          <Parameters />
+        </Method>
+        <Method name="Equals">
+          <Signature accessor="public" return_type="System.Boolean" />
+          <Parameters>
+            <Parameter name="obj" type="System.Object" />
+          </Parameters>
+        </Method>
+        <Method name="GetHashCode">
+          <Signature accessor="public" return_type="System.Int32" />
+          <Parameters />
+        </Method>
+        <Method name="GetType">
+          <Signature accessor="public" return_type="System.Type" />
+          <Parameters />
+        </Method>
+        <Method name="Finalize">
+          <Signature accessor="protected" return_type="System.Void" />
+          <Parameters />
+        </Method>
+        <Method name="MemberwiseClone">
+          <Signature accessor="protected" return_type="System.Object" />
+          <Parameters />
+        </Method>
+      </Methods>
+    </Class>
+  </Namespace>
+  <Namespace name="TestDll3">
+    <Class name="Class1">
+      <Interfaces />
+      <InheritedTypes />
+      <Fields />
+      <Methods>
+        <Method name="ToString">
+          <Signature accessor="public" return_type="System.String" />
+          <Parameters />
+        </Method>
+        <Method name="Equals">
+          <Signature accessor="public" return_type="System.Boolean" />
+          <Parameters>
+            <Parameter name="obj" type="System.Object" />
+          </Parameters>
+        </Method>
+        <Method name="GetHashCode">
+          <Signature accessor="public" return_type="System.Int32" />
+          <Parameters />
+        </Method>
+        <Method name="GetType">
+          <Signature accessor="public" return_type="System.Type" />
+          <Parameters />
+        </Method>
+        <Method name="Finalize">
+          <Signature accessor="protected" return_type="System.Void" />
+          <Parameters />
+        </Method>
+        <Method name="MemberwiseClone">
+          <Signature accessor="protected" return_type="System.Object" />
+          <Parameters />
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Class2">
+      <Interfaces />
+      <InheritedTypes />
+      <Fields>
+        <Field accessor="public" type="System.Int32" name="H" />
+      </Fields>
+      <Methods>
+        <Method name="ToString">
+          <Signature accessor="public" return_type="System.String" />
+          <Parameters />
+        </Method>
+        <Method name="Equals">
+          <Signature accessor="public" return_type="System.Boolean" />
+          <Parameters>
+            <Parameter name="obj" type="System.Object" />
+          </Parameters>
+        </Method>
+        <Method name="GetHashCode">
+          <Signature accessor="public" return_type="System.Int32" />
+          <Parameters />
+        </Method>
+        <Method name="GetType">
+          <Signature accessor="public" return_type="System.Type" />
+          <Parameters />
+        </Method>
+        <Method name="Finalize">
+          <Signature accessor="protected" return_type="System.Void" />
+          <Parameters />
+        </Method>
+        <Method name="MemberwiseClone">
+          <Signature accessor="protected" return_type="System.Object" />
+          <Parameters />
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Class3">
+      <Interfaces />
+      <InheritedTypes>
+        <InheritedType name="Class2" />
+      </InheritedTypes>
+      <Fields>
+        <Field accessor="private" type="System.String" name="A" />
+      </Fields>
+      <Methods>
+        <Method name="ToString">
+          <Signature accessor="public" return_type="System.String" />
+          <Parameters />
+        </Method>
+        <Method name="Equals">
+          <Signature accessor="public" return_type="System.Boolean" />
+          <Parameters>
+            <Parameter name="obj" type="System.Object" />
+          </Parameters>
+        </Method>
+        <Method name="GetHashCode">
+          <Signature accessor="public" return_type="System.Int32" />
+          <Parameters />
+        </Method>
+        <Method name="GetType">
+          <Signature accessor="public" return_type="System.Type" />
+          <Parameters />
+        </Method>
+        <Method name="Finalize">
+          <Signature accessor="protected" return_type="System.Void" />
+          <Parameters />
+        </Method>
+        <Method name="MemberwiseClone">
+          <Signature accessor="protected" return_type="System.Object" />
+          <Parameters />
+        </Method>
+      </Methods>
+    </Class>
+  </Namespace>
+</Namespaces>

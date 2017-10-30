@@ -1,0 +1,9 @@
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\Lab5\bin\Debug\AttributeLibrary.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\Lab5\bin\Debug\AttributeLibrary.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache

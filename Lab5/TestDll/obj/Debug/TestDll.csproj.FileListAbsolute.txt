@@ -1,0 +1,8 @@
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\TestDll\bin\Debug\TestDll.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\TestDll\bin\Debug\TestDll.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\TestDll\bin\Debug\AttributeLibrary.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\TestDll\bin\Debug\AttributeLibrary.pdb
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\TestDll\obj\Debug\TestDll.csprojResolveAssemblyReference.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\TestDll\obj\Debug\TestDll.csproj.CoreCompileInputs.cache
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\TestDll\obj\Debug\TestDll.dll
+C:\Users\IlyaCoding\iCloudDrive\Desktop\SPP\Lab5\TestDll\obj\Debug\TestDll.pdb
